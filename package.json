@@ -1,0 +1,14 @@
+{
+    "name": "@naxmefy/basename",
+    "version": "0.0.1",
+    "author": "naxmefy",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "^6.0.2"
+    },
+    "dependencies": {}
+}
